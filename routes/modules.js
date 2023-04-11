@@ -33,7 +33,7 @@ router.use((err, req, res, next) => {
 /**
  * SAMPLE API ROUTE
  */
-router.get("/api/v1/", (req, res) => {
+router.get("/api/v1", (req, res) => {
     try {
         // res.send('OK');
         res.json({ 
