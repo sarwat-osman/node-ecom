@@ -1,0 +1,23 @@
+{
+  "name": "node_ecom",
+  "version": "1.0.0",
+  "description": "Express App for Product Management System with Categories & Attributes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "ecommerce",
+    "mysql",
+    "knex",
+    "rest"
+  ],
+  "author": "Sarwat Osman",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
